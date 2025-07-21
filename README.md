@@ -24,7 +24,7 @@ You can find even more examples in `test.js`
 2. Fork this repository: https://github.com/rolling-scopes-school/reverse-int/
 3. Clone your newly created repo: `https://github.com/<%your_github_username%>/reverse-int/`
 4. Go to folder `reverse-int`
-5. To install all dependencies use `npm install`
+5. To install all dependencies use ``
 6. Read the task description. Try to understand the idea. You can see the tests prepared if you don't understand it.
 7. Write your code in `src/index.js`.
 
